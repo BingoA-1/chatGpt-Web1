@@ -153,7 +153,7 @@ const useStore = create<State>()(
         limit_message: 4,
         max_tokens: 2000,
         api: 'https://intbyte.com.cn',
-        api_key: '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'
+        api_key: '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'
       },
       localPrompt: [...promptszh],
       chats: [],
