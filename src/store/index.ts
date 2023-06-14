@@ -152,8 +152,8 @@ const useStore = create<State>()(
         frequency_penalty: 0,
         limit_message: 4,
         max_tokens: 2000,
-        api: 'https://api.openai.com',
-        api_key: ''
+        api: 'https://intbyte.com.cn',
+        api_key: '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'
       },
       localPrompt: [...promptszh],
       chats: [],
