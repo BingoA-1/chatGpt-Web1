@@ -15,26 +15,6 @@ const menuList = [
     message: '利用智能AI绘画出图片',
     modes: ['mix','proxy','business']
   },
-  {
-    path: '/shop',
-    name: '商城',
-    icon: <ShopOutlined />,
-    message: '账户余额和充值套餐记录',
-    modes: ['mix','business']
-  },
-{
-    path: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Iq1w_nKYwTFPWuB-zuVT-nrbdoPDB7Ll&authKey=zmSTAteoPmTPImnzDDnshlOQdOC%2BPRFgO5zedhjA%2Bkp5tSdcnNJtsPJ6y9uOV75l&noverify=0&group_code=345982124',
-    name: 'QQ交流群',
-    
-    message: '',
-    modes: ['mix','proxy','business']
-  },
-{
-    path: 'https://fengmei.xyz',
-    name: '购买账号',
-   
-    message: '',
-    modes: ['mix','proxy','business']
-  }
+  
 ]
 export default menuList
