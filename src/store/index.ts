@@ -146,7 +146,7 @@ const useStore = create<State>()(
         }
       ],
       config: {
-        model: 'gpt-3.5-turbo',
+        model: 'gpt-3.5-turbo-16k-0613',
         temperature: 0,
         presence_penalty: 0,
         frequency_penalty: 0,
